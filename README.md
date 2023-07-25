@@ -16,5 +16,8 @@ Projects: This section lists any projects I have worked on, both personal and pr
 
 
 
-https://github.com/anany057/Resume-Template/assets/112336313/d40914c9-3811-4da6-9b42-7816c2ceaa71
+
+https://github.com/anany057/Resume-Template/assets/112336313/d0bef4c0-1731-4eeb-9865-1aed052772a4
+
+
 
